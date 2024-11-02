@@ -1,3 +1,3 @@
 # compras
 lista de compras
-https://thiagoloiro.github.io/compras/
+https://thiago-rocha-aquino.github.io/compras/
